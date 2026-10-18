@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="screen_padding">24dp</dimen>
+
+    <dimen name="title_size">28sp</dimen>
+
+    <dimen name="subtitle_size">18sp</dimen>
+
+    <dimen name="text_size">16sp</dimen>
+
+    <dimen name="space_small">8dp</dimen>
+
+    <dimen name="space_medium">16dp</dimen>
+
+    <dimen name="space_large">30dp</dimen>
+
+    <dimen name="photo_size">80dp</dimen>
+
+</resources>

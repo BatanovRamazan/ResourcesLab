@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Student Portal</string>
+
+    <string name="main_title">Портал группы</string>
+    <string name="main_subtitle">Student Information System</string>
+    <string name="students_count">Студентов в группе: 8</string>
+    <string name="academic_year">Учебный год: 2026</string>
+    <string name="group_average">Средний балл группы: 84</string>
+    <string name="btn_students">Открыть список студентов</string>
+
+    <string name="student_list_title">Список студентов</string>
+    <string name="student_list_hint">Выберите студента для просмотра информации</string>
+
+    <string name="student_ramazan">Ramazan — 90</string>
+    <string name="student_ali">Ali — 80</string>
+    <string name="student_olzhas">Olzhas — 85</string>
+    <string name="student_timur">Timur — 88</string>
+    <string name="student_ayan">Ayan — 76</string>
+    <string name="student_daniyar">Daniyar — 92</string>
+    <string name="student_aslan">Aslan — 84</string>
+    <string name="student_arman">Arman — 79</string>
+
+    <string name="grade_text">Оценка: %1$d</string>
+    <string name="btn_back">Назад</string>
+    <string name="photo_description">Фото студента</string>
+
+</resources>
