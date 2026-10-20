@@ -1,0 +1,24 @@
+ResourcesLab - Application Logs
+Package: com.example.resourceslab
+Device: Pixel 7a Emulator
+2026-10-20 19:31:36.605  MainActivity    D  onCreate
+2026-10-20 19:31:36.659  MainActivity    D  onStart
+2026-10-20 19:31:36.713  MainActivity    D  onResume
+
+2026-10-20 19:32:31.733  MainActivity    I  Открыт список студентов
+2026-10-20 19:32:31.774  MainActivity    D  onPause
+
+2026-10-20 19:32:32.024  ListActivity    D  onCreate
+2026-10-20 19:32:32.029  ListActivity    D  onStart
+2026-10-20 19:32:32.031  ListActivity    D  onResume
+
+2026-10-20 19:32:32.753  MainActivity    D  onStop
+
+2026-10-20 19:34:41.981  ListActivity    I  Выбран студент: Ramazan
+2026-10-20 19:34:41.998  ListActivity    D  onPause
+
+2026-10-20 19:34:42.026  DetailActivity  D  onCreate
+2026-10-20 19:34:42.030  DetailActivity  D  onStart
+2026-10-20 19:34:42.031  DetailActivity  D  onResume
+
+2026-10-20 19:34:42.740  ListActivity    D  onStop
